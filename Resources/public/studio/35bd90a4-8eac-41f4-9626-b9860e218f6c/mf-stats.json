@@ -20,8 +20,8 @@
       "api": ""
     },
     "globalName": "coreshopcustomer",
-    "pluginVersion": "2.4.0",
-    "publicPath": "/bundles/coreshopcustomer/studio/c06b0e44-536c-4cc8-b5f4-ff253bad22ef/"
+    "pluginVersion": "2.5.1",
+    "publicPath": "/bundles/coreshopcustomer/studio/35bd90a4-8eac-41f4-9626-b9860e218f6c/"
   },
   "shared": [
     {
@@ -37,8 +37,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/460.99ad4682.js",
-            "static/js/async/79.4719a1f2.js"
+            "static/js/async/460.795f52c3.js",
+            "static/js/async/79.261414f5.js"
           ]
         },
         "css": {
@@ -63,7 +63,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/920.b48be53d.js"
+            "static/js/async/920.cfd9e9ab.js"
           ]
         },
         "css": {
@@ -88,7 +88,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/63.c0bc3e53.js"
+            "static/js/async/63.68ec780a.js"
           ]
         },
         "css": {
@@ -115,8 +115,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.7e8b717f.js",
-            "static/js/async/76.157d09fd.js"
+            "static/js/async/695.d690a81c.js",
+            "static/js/async/76.9617dac5.js"
           ]
         },
         "css": {
@@ -234,10 +234,10 @@
         "js": {
           "sync": [
             "static/js/174.49ac518a.js",
-            "static/js/191.36ebed6e.js",
-            "static/js/async/890.62480af0.js",
-            "static/js/699.5a08b84c.js",
-            "static/js/async/__federation_expose_default_export.2eb7c482.js"
+            "static/js/191.88736e89.js",
+            "static/js/async/890.fd8568d2.js",
+            "static/js/29.5329bb7f.js",
+            "static/js/async/__federation_expose_default_export.f42b34eb.js"
           ],
           "async": []
         },
