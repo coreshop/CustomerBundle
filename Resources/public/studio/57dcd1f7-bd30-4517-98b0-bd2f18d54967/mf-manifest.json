@@ -20,8 +20,8 @@
       "api": ""
     },
     "globalName": "coreshopcustomer",
-    "pluginVersion": "2.5.1",
-    "publicPath": "/bundles/coreshopcustomer/studio/608575fb-f882-4e82-82f4-bd18875569ef/"
+    "pluginVersion": "2.8.0",
+    "publicPath": "/bundles/coreshopcustomer/studio/57dcd1f7-bd30-4517-98b0-bd2f18d54967/"
   },
   "shared": [
     {
@@ -34,8 +34,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/460.795f52c3.js",
-            "static/js/async/79.261414f5.js"
+            "static/js/async/460.6f238bd7.js",
+            "static/js/async/79.63c44071.js"
           ]
         },
         "css": {
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/920.cfd9e9ab.js"
+            "static/js/async/920.eefcd65f.js"
           ]
         },
         "css": {
@@ -75,7 +75,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/63.68ec780a.js"
+            "static/js/async/63.a6f2d647.js"
           ]
         },
         "css": {
@@ -95,8 +95,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.d690a81c.js",
-            "static/js/async/76.9617dac5.js"
+            "static/js/async/695.888b7a35.js",
+            "static/js/async/76.22d2c455.js"
           ]
         },
         "css": {
@@ -116,7 +116,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/375.5569c5f5.js"
+            "static/js/async/375.8a26c4d5.js"
           ]
         },
         "css": {
@@ -166,11 +166,11 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/174.49ac518a.js",
-            "static/js/191.88736e89.js",
-            "static/js/async/890.fd8568d2.js",
-            "static/js/29.5329bb7f.js",
-            "static/js/async/__federation_expose_default_export.f42b34eb.js"
+            "static/js/174.e61bccf1.js",
+            "static/js/191.9c620e0c.js",
+            "static/js/async/890.361dd1f0.js",
+            "static/js/29.84d596d9.js",
+            "static/js/async/__federation_expose_default_export.ea812c25.js"
           ],
           "async": []
         },

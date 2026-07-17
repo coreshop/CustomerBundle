@@ -1,5 +1,5 @@
-/*! For license information please see 29.5329bb7f.js.LICENSE.txt */
-"use strict";(self["chunk_coreshopcustomer "]=self["chunk_coreshopcustomer "]||[]).push([["29"],{238:function(e,n,t){t(2855),t(5168),t(199),t(403)},403:function(e,n,t){t(2855),t(5168)},870:function(e,n,t){t.d(n,{X:()=>i});class i{async getConfig(){let e=`${this.basePath}/coreshop/resource/config`,n=await fetch(e,{credentials:"same-origin"});if(!n.ok)throw Error(`Config request failed: ${n.status}`);return await n.json()}constructor(e="/pimcore-studio/api"){this.basePath=e}}},8268:function(e,n,t){t(2855),t(5168)},3877:function(e,n,t){t(2855),t(5168),t(2696),t(5210)},7350:function(e,n,t){t(2855),t(5168),t(5210),t(2696),t(199),(0,t(1754).rU)(e=>{let{token:n,css:t}=e;return{tree:t`
+/*! For license information please see 29.84d596d9.js.LICENSE.txt */
+"use strict";(self.chunk_coreshopcustomer=self.chunk_coreshopcustomer||[]).push([["29"],{238:function(e,n,t){t(2855),t(5168),t(199),t(403)},403:function(e,n,t){t(2855),t(5168)},870:function(e,n,t){t.d(n,{X:()=>i});class i{async getConfig(){let e=`${this.basePath}/coreshop/resource/config`,n=await fetch(e,{credentials:"same-origin"});if(!n.ok)throw Error(`Config request failed: ${n.status}`);return await n.json()}constructor(e="/pimcore-studio/api"){this.basePath=e}}},8268:function(e,n,t){t(2855),t(5168)},3877:function(e,n,t){t(2855),t(5168),t(2696),t(5210)},7350:function(e,n,t){t(2855),t(5168),t(5210),t(2696),t(199),(0,t(1754).rU)(e=>{let{token:n,css:t}=e;return{tree:t`
     padding: ${n.paddingXS}px;
     background: transparent;
 
